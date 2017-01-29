@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data canvas_height="1569" pattern_url="" frame_url="">
+  <item type="shape" index="0" shape_type="Rectangle" color="3410773 " xpos="-54.4" ypos="-146.9" width="676.6" height="521.3" rotation="0"/>
+  <item type="shape" index="1" shape_type="Rectangle" color="2557761 " xpos="-34.4" ypos="315.25" width="676.6" height="148" rotation="0"/>
+  <item type="shape" index="2" shape_type="Rectangle" color="2557761 " xpos="-62.15" ypos="486.9" width="676.6" height="1481.4" rotation="0"/>
+  <item type="text" index="3" font="FrnkGothITC Hv BT" size="66" color="16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215" xpos="39.65" ypos="334.4" alignment="center" rotation="0" scalex="0.7306883931159973" scaley="1.1213116647250336" filter="true"><![CDATA[PERSONAL BRANDING]]></item>
+  <item type="shape" index="4" shape_type="Circle" color="5574752 " xpos="155.45" ypos="27.75" width="278.9" height="278.9" rotation="0"/>
+  <item type="image" index="5" source="assets/graphics/Ribbons/4a.png" xpos="56.6" ypos="125.55" width="482" height="82.35" rotation="0"/>
+  <item type="shape" index="6" shape_type="Rectangle" color="6368439 " xpos="-33.3" ypos="463.05" width="676.6" height="56.9" rotation="0"/>
+  <item type="shape" index="7" shape_type="Rectangle" color="16643081 " xpos="-27.75" ypos="762.2" width="672.2" height="161.4" rotation="0"/>
+  <item type="shape" index="8" shape_type="Burst" color="3344696 " xpos="164.65" ypos="36.65" width="257.9" height="258.4" rotation="0"/>
+  <item type="image" index="9" source="uploaded_image/5217bf72b9e5a.png" xpos="199.05" ypos="71.65" width="174.7" height="197.65" rotation="0"/>
+  <item type="image" index="10" source="assets/graphics/Additional Icons/IMAC.png" xpos="20.8" ypos="760.25" width="204.7" height="164.55" rotation="0"/>
+  <item type="image" index="11" source="uploaded_image/5217c0073c607.png" xpos="76.35" ypos="317.75" width="431.8" height="29.7" rotation="0"/>
+  <item type="image" index="12" source="uploaded_image/5217c0073c607.png" xpos="528.65" ypos="455.25" width="430.35" height="29.6" rotation="-179.49975745056307"/>
+  <item type="text" index="13" font="Helvetica Neue" size="25" color="16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215" xpos="135.45" ypos="467.2" alignment="center" rotation="0" scalex="1.4654545783996582" scaley="1.4654545783996582" filter="true"><![CDATA[With SOCIAL MEDIA ]]></item>
+  <item type="image" index="14" source="uploaded_image/5217c323001a0.png" xpos="74.7" ypos="519.15" width="468.6" height="193.8" rotation="0"/>
+  <item type="text" index="15" font="Helvetica Neue" size="25" color="0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0" xpos="89.5" ypos="573.75" alignment="center" rotation="0" scalex="0.8392181396484375" scaley="0.8392181396484375" filter="true"><![CDATA[Social Media tools have the tremendous power
+to put you in contact with thousands of people.
+In order to build your online brand you need to
+know all the possibilities.]]></item>
+  <item type="text" index="16" font="Helvetica Neue" size="25" color="0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0" xpos="90.5" ypos="529.95" alignment="center" rotation="0" scalex="1.1259163618087769" scaley="1.1259163618087769" filter="true"><![CDATA[WHY IT MATTERS...]]></item>
+  <item type="image" index="17" source="assets/graphics/Social Media Icons/4.png" xpos="77.7" ypos="776.65" width="90.1" height="90.1" rotation="0"/>
+  <item type="text" index="18" font="Helvetica Neue" size="25" color="0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0" xpos="243.25" ypos="805.25" alignment="left" rotation="0" scalex="0.628265380859375" scaley="0.628265380859375" filter="true"><![CDATA[Users : 845 Million +
+Use your cover photo to show off your personality.
+Keep your work and education history up to date
+and relevant. Add milestone and experiences
+that further enhance your image.]]></item>
+  <item type="text" index="19" font="Helvetica Neue" size="42" color="0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0" xpos="237.35" ypos="771.1" alignment="center" rotation="0" scalex="0.6018016934394836" scaley="0.6018016934394836" filter="true"><![CDATA[FACEBOOK (timeline)]]></item>
+  <item type="shape" index="20" shape_type="Rectangle" color="13287680 " xpos="-26.75" ypos="948.75" width="672.2" height="161.4" rotation="0"/>
+  <item type="image" index="21" source="assets/graphics/Additional Icons/IMAC.png" xpos="391.75" ypos="946.9" width="204.7" height="164.55" rotation="0"/>
+  <item type="image" index="22" source="assets/graphics/Social Media Icons/8.png" xpos="449.75" ypos="965.55" width="91.2" height="91.2" rotation="0"/>
+  <item type="text" index="23" font="Helvetica Neue" size="42" color="0@@@0@@@0@@@0@@@0@@@0" xpos="10.8" ypos="949.95" alignment="center" rotation="0" scalex="0.601791262626648" scaley="0.6017913818359375" filter="true"><![CDATA[LINKED]]></item>
+  <item type="text" index="24" font="Helvetica Neue" size="25" color="0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0" xpos="12.25" ypos="981.25" alignment="left" rotation="0" scalex="0.628265380859375" scaley="0.628265380859375" filter="true"><![CDATA[Users: 150 Million +
+Linkedin is a business-oriented social networking site.
+Users can join and follow groups and companies.
+A user's profile allows them to connect with people
+in their network, and helps build their professional
+brand, so make sure it is current.]]></item>
+  <item type="shape" index="25" shape_type="Rectangle" color="11250945 " xpos="-21.1" ypos="1138.85" width="672.2" height="161.4" rotation="0"/>
+  <item type="image" index="26" source="assets/graphics/Additional Icons/IMAC.png" xpos="13" ypos="1136.9" width="204.7" height="164.55" rotation="0"/>
+  <item type="image" index="27" source="assets/graphics/Social Media Icons/12.png" xpos="68.85" ypos="1151.1" width="91.2" height="91.2" rotation="0"/>
+  <item type="text" index="28" font="Helvetica Neue" size="42" color="0@@@0@@@0@@@0@@@0@@@0@@@0" xpos="227.5" ypos="1151" alignment="center" rotation="0" scalex="0.601776123046875" scaley="0.6017913818359375" filter="true"><![CDATA[TWITTER]]></item>
+  <item type="text" index="29" font="Helvetica Neue" size="25" color="0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0" xpos="232" ypos="1183.25" alignment="left" rotation="0" scalex="0.628265380859375" scaley="0.628265380859375" filter="true"><![CDATA[Users: 140 Million +
+Twitter is an online social networking service and
+microblogging service that enables its users to send
+and read text-based messages of up to
+140 characters, known as "tweets".]]></item>
+  <item type="shape" index="30" shape_type="Rectangle" color="9404928 " xpos="-14.5" ypos="1332.25" width="672.2" height="183.7" rotation="0"/>
+  <item type="image" index="31" source="assets/graphics/Additional Icons/IMAC.png" xpos="387.3" ypos="1339.7" width="209.1" height="168.1" rotation="0"/>
+  <item type="image" index="32" source="assets/graphics/Social Media Icons/6.png" xpos="448.65" ypos="1354.45" width="93.5" height="93.5" rotation="0"/>
+  <item type="text" index="33" font="Helvetica Neue" size="25" color="0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0" xpos="14.5" ypos="1379.75" alignment="left" rotation="0" scalex="0.628265380859375" scaley="0.628265380859375" filter="true"><![CDATA[Users: 100 Million +
+Google+ is a social networking and identity service
+owned and operated by Google Inc. It is the
+second-largest social networking site in the world,
+having surpassed Twitter in January 2013. It has
+approximately 359 million active users.]]></item>
+  <item type="text" index="34" font="Helvetica Neue" size="42" color="0@@@0@@@0@@@0@@@0@@@0@@@0@@@0" xpos="10.75" ypos="1345.75" alignment="center" rotation="0" scalex="0.601776123046875" scaley="0.6017913818359375" filter="true"><![CDATA[GOOGLE +]]></item>
+  <item type="image" index="35" source="uploaded_image/5217c800d95cc.png" xpos="134.65" ypos="251.05" width="33.9" height="34.4" rotation="0"/>
+  <item type="image" index="36" source="uploaded_image/5217c800d95cc.png" xpos="30.25" ypos="17.75" width="33.9" height="34.4" rotation="0"/>
+  <item type="image" index="37" source="uploaded_image/5217c800d95cc.png" xpos="30.25" ypos="17.75" width="33.9" height="34.4" rotation="0"/>
+  <item type="image" index="38" source="uploaded_image/5217c800d95cc.png" xpos="70.2" ypos="47.75" width="33.9" height="34.4" rotation="0"/>
+  <item type="image" index="39" source="uploaded_image/5217c800d95cc.png" xpos="106.9" ypos="9.95" width="33.9" height="34.4" rotation="0"/>
+  <item type="image" index="40" source="uploaded_image/5217c800d95cc.png" xpos="20.25" ypos="88.85" width="33.9" height="34.4" rotation="0"/>
+  <item type="image" index="41" source="uploaded_image/5217c800d95cc.png" xpos="20.25" ypos="248.85" width="33.9" height="34.4" rotation="0"/>
+  <item type="image" index="42" source="uploaded_image/5217c800d95cc.png" xpos="78.25" ypos="249.75" width="33.85" height="34.3" rotation="-113.54812614116672"/>
+  <item type="image" index="43" source="uploaded_image/5217c800d95cc.png" xpos="81.3" ypos="268.85" width="33.9" height="34.4" rotation="0"/>
+  <item type="image" index="44" source="uploaded_image/5217c800d95cc.png" xpos="20.25" ypos="158.85" width="33.9" height="34.4" rotation="0"/>
+  <item type="image" index="45" source="uploaded_image/5217c800d95cc.png" xpos="82.45" ypos="95.5" width="33.9" height="34.4" rotation="0"/>
+  <item type="image" index="46" source="uploaded_image/5217c800d95cc.png" xpos="128" ypos="57.75" width="33.9" height="34.4" rotation="0"/>
+  <item type="image" index="47" source="uploaded_image/5217c800d95cc.png" xpos="384.55" ypos="7.75" width="33.9" height="34.4" rotation="0"/>
+  <item type="image" index="48" source="uploaded_image/5217c800d95cc.png" xpos="430.1" ypos="43.3" width="33.9" height="34.4" rotation="0"/>
+  <item type="image" index="49" source="uploaded_image/5217c800d95cc.png" xpos="468.95" ypos="14.45" width="33.9" height="34.4" rotation="0"/>
+  <item type="image" index="50" source="uploaded_image/5217c800d95cc.png" xpos="466.75" ypos="75.5" width="33.9" height="34.4" rotation="0"/>
+  <item type="image" index="51" source="uploaded_image/5217c800d95cc.png" xpos="546.85" ypos="47.45" width="33.9" height="34.4" rotation="84.26574521419244"/>
+  <item type="image" index="52" source="uploaded_image/5217c800d95cc.png" xpos="548.9" ypos="15.5" width="33.9" height="34.4" rotation="0"/>
+  <item type="image" index="53" source="uploaded_image/5217c800d95cc.png" xpos="562.25" ypos="73.35" width="33.9" height="34.4" rotation="0"/>
+  <item type="image" index="54" source="uploaded_image/5217c800d95cc.png" xpos="522.25" ypos="106.65" width="33.9" height="34.4" rotation="0"/>
+  <item type="image" index="55" source="uploaded_image/5217c800d95cc.png" xpos="552.2" ypos="163.3" width="33.9" height="34.4" rotation="0"/>
+  <item type="image" index="56" source="uploaded_image/5217c800d95cc.png" xpos="508.05" ypos="247.9" width="33.9" height="34.4" rotation="-87.90398812917093"/>
+  <item type="image" index="57" source="uploaded_image/5217c800d95cc.png" xpos="451.15" ypos="211.1" width="33.9" height="34.4" rotation="0"/>
+  <item type="image" index="58" source="uploaded_image/5217c800d95cc.png" xpos="417.85" ypos="257.75" width="33.9" height="34.4" rotation="0"/>
+  <item type="image" index="59" source="uploaded_image/5217c800d95cc.png" xpos="476.7" ypos="257.75" width="33.9" height="34.4" rotation="0"/>
+  <item type="image" index="60" source="uploaded_image/5217c800d95cc.png" xpos="542.25" ypos="268.85" width="33.9" height="34.4" rotation="0"/>
+  <item type="image" index="61" source="uploaded_image/5217c800d95cc.png" xpos="560" ypos="226.6" width="33.9" height="34.4" rotation="0"/>
+  <item type="image" index="62" source="uploaded_image/5217c800d95cc.png" xpos="155.75" ypos="16.65" width="33.9" height="34.4" rotation="0"/>
+  <item type="image" index="63" source="uploaded_image/5217c800d95cc.png" xpos="201.3" ypos="0" width="33.9" height="34.4" rotation="0"/>
+</data>

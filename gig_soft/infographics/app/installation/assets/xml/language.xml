@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+        <item word="undo"><![CDATA[UNDO]]></item>
+        <item word="redo"><![CDATA[REDO]]></item>
+        <item word="save"><![CDATA[SAVE]]></item>
+        <item word="load"><![CDATA[LOAD]]></item>
+        <item word="upload_image"><![CDATA[Upload Image]]></item>
+        <item word="bring_forward"><![CDATA[Bring Forward]]></item>
+        <item word="send_backward"><![CDATA[Send Backward]]></item>
+        <item word="color"><![CDATA[Color]]></item>
+        <item word="delete"><![CDATA[Delete]]></item>
+        <item word="duplicate"><![CDATA[Duplicate]]></item>
+        <item word="grid"><![CDATA[Grid]]></item>
+        <item word="download"><![CDATA[DOWNLOAD]]></item>
+
+        <item word="text"><![CDATA[TEXT]]></item>
+        <item word="background"><![CDATA[BACKGROUND]]></item>
+        <item word="border"><![CDATA[BORDER]]></item>
+        <item word="graphics"><![CDATA[GRAPHICS]]></item>
+        <item word="shapes"><![CDATA[SHAPES]]></item>
+        <item word="Templates"><![CDATA[TEMPLATES]]></item>
+
+        <item word="enter_file_name"><![CDATA[ENTER YOUR NEW FILE NAME]]></item>
+        <item word="save_yes"><![CDATA[Save]]></item>
+        <item word="cancel"><![CDATA[Cancel]]></item>
+
+        <item word="loading"><![CDATA[LOADING....]]></item>
+        <item word="uploading_image"><![CDATA[UPLOADING IMAGE....]]></item>
+
+        <item word="size"><![CDATA[SIZE]]></item>
+        <item word="type"><![CDATA[TYPE]]></item>
+        <item word="add_text"><![CDATA[ADD TEXT]]></item>
+
+        <item word="text_style1"><![CDATA[This Is Your Infographics Title]]></item>
+        <item word="text_style2"><![CDATA[This Is Some Sub-Headline Subtitle]]></item>
+        <item word="text_style3"><![CDATA[THIS IS A SECTION HEADLINE]]></item>
+        <item word="text_style4"><![CDATA[THIS IS A SMALLER HEADLINE]]></item>
+        <item word="text_style5"><![CDATA[This is some cool paragraph text]]></item>
+
+        <item word="press_enter"><![CDATA[Press Enter after inserting the new height.]]></item>
+
+        <item word="ribbons"><![CDATA[Ribbons]]></item>
+        <item word="banners"><![CDATA[Banners]]></item>
+        <item word="bar_graph"><![CDATA[Bar Graph]]></item>
+        <item word="divider_styles"><![CDATA[Divider Styles]]></item>
+        <item word="indicators"><![CDATA[Indicators]]></item>
+        <item word="people"><![CDATA[People]]></item>
+        <item word="pie_charts"><![CDATA[Pie Charts]]></item>
+        <item word="icons"><![CDATA[Icons]]></item>
+        <item word="social_media"><![CDATA[Social Media Icons]]></item>
+        <item word="place"><![CDATA[Place Icons]]></item>
+        <item word="world_map"><![CDATA[World Map]]></item>
+        <item word="devices"><![CDATA[Devices]]></item>
+</data>
